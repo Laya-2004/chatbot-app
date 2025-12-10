@@ -1,0 +1,12 @@
+{
+    "hello": "👋 Hello there! How can I assist you today?",
+    "hi": "👋 Hi! What can I do for you?",
+    "what is your name": "I'm your friendly chatbot assistant! 🤖",
+    "what can you do": "In static mode, I can answer predefined questions. In dynamic mode, I can answer anything using AI!",
+    "how are you": "I'm just a program, so I don't have feelings, but I'm functioning perfectly! 😊",
+    "thank you": "You're welcome! 😊",
+    "bye": "Goodbye! Come back anytime! 👋",
+    "who created you": "I was created by a developer using Python and Flask!",
+    "what is static mode": "Static mode means I only answer questions that have been predefined in my database.",
+    "what is dynamic mode": "Dynamic mode means I use AI to generate answers to any question you ask!"
+}
